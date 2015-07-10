@@ -1,0 +1,14 @@
+{
+  "name": "node-jabber",
+  "private": false,
+  "scripts": {
+    "start": "node client.js"
+  },
+  "dependencies": {
+    "node-xmpp": "*",
+    "node-uuid": "*",
+    "underscore": "*",
+    "ltx": "*",
+    "underscore.string":"*"
+  }
+}
